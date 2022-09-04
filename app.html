@@ -1,0 +1,33 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <a href="#!/" class="navbar-brand">Blockchain Model</a>
+        </div>
+
+        <div id="navbar" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav navbar-right">
+                <li ng-class="{active: $root.isActive('/hash')}">
+                    <a href="#!/hash">Hash</a>
+                </li>
+                <li ng-class="{active: $root.isActive('/block')}">
+                    <a href="#!/block">Block</a>
+                </li>
+                <li ng-class="{active: $root.isActive('/blockchain')}">
+                    <a href="#!/blockchain">Blockchain</a>
+                </li>
+                <li ng-class="{active: $root.isActive('/distributed')}">
+                    <a href="#!/distributed">Distributed</a>
+                </li>
+                <li ng-class="{active: $root.isActive('/transaction')}">
+                    <a href="#!/transaction">Transactions</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<a ng-if="$root.isActive('/')">
+    <img src="images/slavaUkraini.png" alt="Slava  Ukraini" class="UA-ribbon">
+</a>
+<div ng-class="$root.$route.current.containerClass" ng-view>
+
+</div>

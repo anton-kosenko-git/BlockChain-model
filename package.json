@@ -1,0 +1,29 @@
+{
+  "name": "blockchain-model",
+  "version": "1.0.0",
+  "description": "Web model of blockchain for Diploma project",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anton-kosenko-git/BlockChain-model.git"
+  },
+  "author": "Anton Kosenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anton-kosenko-git/BlockChain-model/issues"
+  },
+  "homepage": "https://github.com/anton-kosenko-git/BlockChain-model#readme",
+  "dependencies": {
+    "@angular/cli": "^14.1.1",
+    "angular": "^1.8.2",
+    "jquery": "^3.6.0",
+    "jQuery": "^1.7.4",
+    "js-sha256": "^0.9.0"
+  }
+}

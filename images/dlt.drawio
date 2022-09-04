@@ -1,0 +1,174 @@
+<mxfile host="65bd71144e">
+    <diagram id="iHrKQ9YHBTQe3MDp7hfM" name="Page-1">
+        <mxGraphModel dx="1060" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="9" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2" target="6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="164" y="120" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="31" y="160"/>
+                            <mxPoint x="84" y="160"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+                    <mxGeometry x="4" y="40" width="54.6" height="70.19999999999999" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="204" y="160" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="281" y="160"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+                    <mxGeometry x="254" y="40" width="54.6" height="70.19999999999999" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=none;html=1;" edge="1" parent="1" source="4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="124" y="160" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="31" y="160"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+                    <mxGeometry x="4" y="220" width="54.6" height="70.19999999999999" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="204" y="160" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="281" y="160"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+                    <mxGeometry x="254" y="220" width="54.6" height="70.19999999999999" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="31" y="110" as="targetPoint"/>
+                        <mxPoint x="121" y="159.8265895953757" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="31" y="160"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;entryX=0.476;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6" target="4">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="30" y="160"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;entryX=0.542;entryY=1.034;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="201.5" y="159.75" as="sourcePoint"/>
+                        <mxPoint x="281.5932" y="112.58679999999998" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="282" y="160"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;entryX=0.527;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="202.5" y="159.83333333333337" as="sourcePoint"/>
+                        <mxPoint x="281.77420000000006" y="219.7894" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="282" y="160"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.bank;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="124" y="120" width="79.5" height="79.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;html=1;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="164.4000000000001" y="200" as="targetPoint"/>
+                        <mxPoint x="164.4000000000001" y="240" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked_doc;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="240" width="50.8" height="61.6" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" style="edgeStyle=none;html=1;" edge="1" parent="1" source="22" target="40">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" style="edgeStyle=none;html=1;" edge="1" parent="1" source="22" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+                    <mxGeometry x="427" y="40" width="54.6" height="70.19999999999999" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=none;html=1;" edge="1" parent="1" source="24" target="38">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" style="edgeStyle=none;html=1;entryX=0.978;entryY=0.236;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="24" target="26">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+                    <mxGeometry x="677" y="40" width="54.6" height="70.19999999999999" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" style="edgeStyle=none;html=1;" edge="1" parent="1" source="26" target="39">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" style="edgeStyle=none;html=1;" edge="1" parent="1" source="26">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="670" y="100" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+                    <mxGeometry x="427" y="224" width="54.6" height="70.19999999999999" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" style="edgeStyle=none;html=1;" edge="1" parent="1" source="28">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="490" y="100" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
+                    <mxGeometry x="677" y="220" width="54.6" height="70.19999999999999" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=none;html=1;exitX=1.015;exitY=0.51;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="28" target="36">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" style="edgeStyle=none;html=1;" edge="1" parent="1" source="36" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked_doc;" vertex="1" parent="1">
+                    <mxGeometry x="760" y="224.3" width="50.8" height="61.6" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" style="edgeStyle=none;html=1;entryX=1;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="38" target="24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked_doc;" vertex="1" parent="1">
+                    <mxGeometry x="759" y="44.30000000000001" width="50.8" height="61.6" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" style="edgeStyle=none;html=1;" edge="1" parent="1" source="39" target="26">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked_doc;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="228.60000000000002" width="50.8" height="61.6" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" style="edgeStyle=none;html=1;" edge="1" parent="1" source="40" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked_doc;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="44.30000000000001" width="50.8" height="61.6" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="Centralized Ledger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="103.75" y="310" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="Distributed Ledger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="535" y="310" width="110" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
